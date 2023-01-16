@@ -1,0 +1,2 @@
+# qb-inventory
+Client>Main
